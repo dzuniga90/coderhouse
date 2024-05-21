@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.productimg {
+    width: 200px;
+    height:200px
+}
+
+#hometitle {
+    text-align: center;
+}
+.product {
+    margin-left: 3em;
+}
